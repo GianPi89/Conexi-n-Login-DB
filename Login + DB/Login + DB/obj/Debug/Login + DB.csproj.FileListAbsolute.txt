@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\bin\Debug\DB_Tienda.accdb
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\bin\Debug\Login + DB.exe.config
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\bin\Debug\Login + DB.exe
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\bin\Debug\Login + DB.pdb
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login + DB.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login + DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login___DB.FrmLogin.resources
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login___DB.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login + DB.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login + DB.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login + DB.exe
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login + DB.pdb
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\bin\Debug\DB_Login.accdb
+C:\Users\user\Documents\Visual Studio 2022\Login + DB\Login + DB\obj\Debug\Login___DB.FrmRegistrar.resources
